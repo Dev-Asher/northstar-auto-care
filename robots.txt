@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://northstar-auto-care.example/sitemap.xml
+Sitemap: https://dev-asher.github.io/northstar-auto-care/sitemap.xml
